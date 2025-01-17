@@ -1,4 +1,4 @@
-## Hi there 👋
+**Detecting lung cancer with AI and intraoperative microscopy.**
 
 <!--
 **siemdejong/siemdejong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
