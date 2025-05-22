@@ -1,4 +1,4 @@
-intraoperatively detecting lung cancer with AI and multiphoton microscopy.
+Intraoperatively detecting lung cancer with AI and multiphoton microscopy.
 
 <!--
 **siemdejong/siemdejong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
